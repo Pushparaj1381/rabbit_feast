@@ -26,7 +26,7 @@
    ```bash
    python rabbit_feast.py
 ## Screenshots
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](The Rabbit/screenshots/gameplay.png)
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.

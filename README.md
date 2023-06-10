@@ -16,6 +16,23 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rabbit-feast.git
+   git clone https://github.com/pushparaj1381/rabbit_feast.git
 2. Install the required dependencies. Make sure you have Python and Pygame installed:
-3. 
+
+   ```bash
+   pip install pygame
+
+3. Run the game:
+   ```bash
+   python rabbit_feast.py
+## Screenshots
+![Gameplay Screenshot](screenshots/gameplay.png)
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Acknowledgements
+- Pygame - The library used for developing the game.
+- Sound effects obtained from Freesound.
+- Background music: Freesound.
+
